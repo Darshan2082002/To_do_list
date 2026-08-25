@@ -1,0 +1,31 @@
+# Core & Environment Management
+python-dotenv
+pip-tools
+
+# Data Validation & Utilities
+pydantic
+requests
+httpx
+python-dateutil
+
+# Testing & Code Quality
+pytest
+pytest-cov
+ruff
+
+# Web Development & APIs
+fastapi
+uvicorn
+flask
+
+# Database & ORMs
+sqlalchemy
+alembic
+
+# Data Science & Analytics
+pandas
+numpy
+
+# CLI Development
+typer
+rich
